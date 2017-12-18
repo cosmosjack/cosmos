@@ -1,0 +1,463 @@
+[
+  {
+    "inpro": 0,
+    "pName": "类目",
+    "data": [
+      {
+        "data": [
+          {
+            "spell": "bgq",
+            "name": "绑钩器",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "50023431",
+            "status": 0
+          }
+        ],
+        "name": "b"
+      },
+      {
+        "data": [
+          {
+            "spell": "cw",
+            "name": "抄网",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014085",
+            "status": 0
+          },
+          {
+            "spell": "cdxpj",
+            "name": "垂钓小配件",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014097",
+            "status": 0
+          },
+          {
+            "spell": "cwt",
+            "name": "抄网头",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123552001",
+            "status": 0
+          },
+          {
+            "spell": "cwg",
+            "name": "抄网杆",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123554001",
+            "status": 0
+          }
+        ],
+        "name": "c"
+      },
+      {
+        "data": [
+          {
+            "spell": "dg",
+            "name": "钓竿",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014075",
+            "status": 0
+          },
+          {
+            "spell": "dym",
+            "name": "钓鱼帽",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014084",
+            "status": 0
+          },
+          {
+            "spell": "dx",
+            "name": "钓箱",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014088",
+            "status": 0
+          },
+          {
+            "spell": "dyyother_typed",
+            "name": "钓鱼椅、凳",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50017575",
+            "status": 0
+          },
+          {
+            "spell": "dys",
+            "name": "钓鱼伞",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50017576",
+            "status": 0
+          },
+          {
+            "spell": "dt",
+            "name": "钓台",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50017755",
+            "status": 0
+          },
+          {
+            "spell": "dyx",
+            "name": "钓鱼鞋",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014092",
+            "status": 0
+          },
+          {
+            "spell": "dyst",
+            "name": "钓鱼手套",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123514001",
+            "status": 0
+          },
+          {
+            "spell": "dyjd",
+            "name": "钓鱼剪刀",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123518001",
+            "status": 0
+          },
+          {
+            "spell": "dybjq",
+            "name": "钓鱼报警器",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123512002",
+            "status": 0
+          },
+          {
+            "spell": "dyc",
+            "name": "钓鱼船",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123512003",
+            "status": 0
+          },
+          {
+            "spell": "dyctjq",
+            "name": "钓鱼船推进器",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123524001",
+            "status": 0
+          },
+          {
+            "spell": "dwc",
+            "name": "打窝船",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123520002",
+            "status": 0
+          },
+          {
+            "spell": "dybsother_typepxother_typeydother_typedyq",
+            "name": "钓鱼比赛/培训/游钓/钓鱼券",
+            "spuid": 0,
+            "leaf": 0,
+            "sid": "124210016",
+            "status": 0
+          }
+        ],
+        "name": "d"
+      },
+      {
+        "data": [
+          {
+            "spell": "elh",
+            "name": "饵料盒",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123520001",
+            "status": 0
+          }
+        ],
+        "name": "e"
+      },
+      {
+        "data": [
+          {
+            "spell": "fp",
+            "name": "浮漂",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014078",
+            "status": 0
+          },
+          {
+            "spell": "fpz",
+            "name": "浮漂座",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123524004",
+            "status": 0
+          }
+        ],
+        "name": "f"
+      },
+      {
+        "data": [
+          {
+            "spell": "gz",
+            "name": "竿止",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123556001",
+            "status": 0
+          }
+        ],
+        "name": "g"
+      },
+      {
+        "data": [
+          {
+            "spell": "kyq",
+            "name": "控鱼钳",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50023434",
+            "status": 0
+          }
+        ],
+        "name": "k"
+      },
+      {
+        "data": [
+          {
+            "spell": "lyq",
+            "name": "路亚钳",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50023430",
+            "status": 0
+          }
+        ],
+        "name": "l"
+      },
+      {
+        "data": [
+          {
+            "spell": "ph",
+            "name": "漂盒",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "122378003",
+            "status": 0
+          }
+        ],
+        "name": "p"
+      },
+      {
+        "data": [
+          {
+            "spell": "qtcdyp",
+            "name": "其他垂钓用品",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014099",
+            "status": 0
+          },
+          {
+            "spell": "qp",
+            "name": "铅皮",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123508002",
+            "status": 0
+          },
+          {
+            "spell": "qz",
+            "name": "铅坠",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123552002",
+            "status": 0
+          }
+        ],
+        "name": "q"
+      },
+      {
+        "data": [
+          {
+            "spell": "ssk",
+            "name": "伸缩扣",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50023435",
+            "status": 0
+          },
+          {
+            "spell": "sss",
+            "name": "失手绳",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123516001",
+            "status": 0
+          }
+        ],
+        "name": "s"
+      },
+      {
+        "data": [
+          {
+            "spell": "tyq",
+            "name": "探鱼器",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50017188",
+            "status": 0
+          },
+          {
+            "spell": "tgq",
+            "name": "脱钩器",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50023432",
+            "status": 0
+          },
+          {
+            "spell": "tkd",
+            "name": "太空豆",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123550001",
+            "status": 0
+          }
+        ],
+        "name": "t"
+      },
+      {
+        "data": [
+          {
+            "spell": "xh",
+            "name": "线盒",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123522001",
+            "status": 0
+          },
+          {
+            "spell": "xmd",
+            "name": "醒目豆",
+            "spuid": 0,
+            "leaf": 1,
+            "sid": "123542002",
+            "status": 0
+          }
+        ],
+        "name": "x"
+      },
+      {
+        "data": [
+          {
+            "spell": "yjtz",
+            "name": "渔具套装",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50017238",
+            "status": 0
+          },
+          {
+            "spell": "yx",
+            "name": "鱼线",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014077",
+            "status": 0
+          },
+          {
+            "spell": "yxl",
+            "name": "鱼线轮",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014095",
+            "status": 0
+          },
+          {
+            "spell": "yg",
+            "name": "鱼钩",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014076",
+            "status": 0
+          },
+          {
+            "spell": "ye",
+            "name": "鱼饵",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014079",
+            "status": 0
+          },
+          {
+            "spell": "yjb",
+            "name": "渔具包",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014081",
+            "status": 0
+          },
+          {
+            "spell": "yh",
+            "name": "鱼护",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014087",
+            "status": 0
+          },
+          {
+            "spell": "ywother_typexlother_typeqtyj",
+            "name": "鱼网/虾笼/其它渔具",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014094",
+            "status": 0
+          },
+          {
+            "spell": "yt",
+            "name": "鱼桶",
+            "spuid": 0,
+            "leaf": 0,
+            "sid": "123512001",
+            "status": 0
+          }
+        ],
+        "name": "y"
+      },
+      {
+        "data": [
+          {
+            "spell": "zj",
+            "name": "支架",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50014080",
+            "status": 0
+          },
+          {
+            "spell": "zxq",
+            "name": "止血钳",
+            "spuid": 0,
+            "leaf": 2,
+            "sid": "50023433",
+            "status": 0
+          }
+        ],
+        "name": "z"
+      }
+    ],
+    "shopType": 0,
+    "type": 0,
+    "sid": "0",
+    "isBrand": 0
+  }
+]

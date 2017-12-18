@@ -1,0 +1,22 @@
+{
+    "name": "example/test",
+    "description": "QueryList是基于phpQuery的无比强大的PHP采集工具",
+    "keywords":["example","phpQuery","spider"],
+    "homepage": "http://querylist.cc",
+    "require": {
+        "PHP":">=5.3.0",
+        "example/test": "^0.9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jack",
+            "email": "jack@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "EXAMPLE\\":""
+        }
+    }
+}
