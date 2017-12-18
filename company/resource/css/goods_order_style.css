@@ -1,0 +1,239 @@
+/*初始化*/
+body,div,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+    padding: 0;
+    margin: 0;
+    font-size:14px;
+    font-family:微软雅黑, 宋体, 新宋体, "Times New Roman", Arial, Fixedsys;
+}
+fieldset,img {
+    border: 0;
+}
+ol,ul {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    font-size: 100%;
+}
+a {
+    text-decoration:none;
+    color:#000000;
+}
+/*初始化  结束*/
+
+
+.location li{
+    display:inline-block;
+    padding:15px 2px;
+}
+.location li a{
+    color:#666666;
+}
+.location{
+    margin-left: 15px;
+    color:#666666;
+}
+.indent{
+    padding:15px;
+    border-top: 1px #c0c0c0 solid;
+}
+.indent h1{
+    margin:20px 0px;
+}
+.mark{
+    border-left:3px solid #1AB394;
+    background:#F0F0F0;
+    color:#1AB394;
+    padding:12px 20px;
+}
+.indent_list li{
+    line-height: 100px;
+}
+.indent_list li,.list_title{
+    padding:15px 0px;
+    border-bottom:1px solid #c0c0c0;
+}
+.grid1,.grid2{
+    display:inline-block;
+    text-align:center;
+    width:170px;
+}
+.grid1{
+    width:350px;
+    float:left;
+}
+.grid1 img{
+    float:left;
+    margin-left:20px;
+}
+.grid1 span{
+    width: 215px;
+    padding-left:10px;
+    text-align:left;
+    display: block;
+    height: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.grid2 input{
+    width:20px;
+    height:20px;
+    text-align:center;
+    border:1px solid #c0c0c0;
+    margin:0px;
+}
+.total_2{
+    float:right;
+    text-align:right;
+    margin-right:30px;
+    margin-top:30px;
+}
+.purchase{
+    padding:7px 30px;
+    background:#1AB394;
+    color:#fff;
+    border:none;
+    font-size:16px;
+    margin-top:20px;
+}
+.address p{
+    margin: 10px 40px;
+}
+.address input{
+    width: 296px;
+    height: 25px;
+    padding: 0px 10px;
+    border: 1px solid #c0c0c0;
+    margin-left: 10px;
+}
+.address select{
+    border: 1px solid #c0c0c0;
+    width: 100px;
+    height: 25px;
+    margin-left: 5px;
+    padding-left: 10px;
+}
+.address p button,.enter_password button{
+    width: 100px;
+    padding: 3px 0px;
+    margin-left: 50px;
+    border: 0px;
+    background:#1AB394;
+    color:#fff;
+}
+.location_bg{
+    width:310px;
+    height:150px;
+    padding:10px;
+    background-size:100% 100%;
+    margin-top:20px;
+    overflow:hidden;
+    float:left;
+}
+.add{
+    width:310px;
+    height:150px;
+    padding:10px;
+    margin:20px 0px 0px 20px;
+    float:left;
+    text-align:center;
+    border:1px solid #c0c0c0;
+    color:#c0c0c0;
+    cursor:pointer;
+}
+.add p{
+    font-size:30px;
+}
+.add p b{
+    font-size:65px;
+}
+.location_bg p{
+    line-height:30px;
+    color:#666666;
+    margin-left:10px;
+}
+.remind{
+    margin:10px;
+}
+.remind span{
+    color:red;
+}
+#pay_way li{
+    height: 50px;
+    border: 1px #c0c0c0 solid;
+    line-height: 50px;
+    padding-left: 10px;
+    margin:10px 0px;
+}
+#pay_way li img{
+        width: 34px;
+    margin: 0px 15px;
+    position: relative;
+    top: 8px;
+}
+#pay_way li b{
+    margin:0px 15px;
+}
+.enter_password{
+    margin:20px 0px;
+}
+.enter_password input{
+    border:1px solid #c0c0c0;
+    padding:0px 10px;
+}
+#ceng{
+    position:fixed;
+    left:0;
+    top:0;
+    background:rgba(0,0,0,0.6);
+    width:100%;
+    height:100%;
+    z-index:99;
+    display:none;
+}
+#address{
+    background:#fff;
+    width: 500px;
+    margin: 17% auto;
+    position:relative;
+    padding-bottom:30px;
+}
+.site_title{
+    padding:15px 30px;
+    background:#F0F0F0;
+    margin-bottom:30px;
+}
+#x{
+    position:absolute;
+    right: 10px;
+    top: 0px;
+    color: #000;
+    padding: 10px;
+    font-size: 20px;
+}
+.save{
+    text-align:center;
+}
+.save button{
+    margin:0px 20px !important;
+}
+.succeed{
+    padding:20px 30px;
+    background:#EEEEEE;
+}
+.succeed h3{
+    height:40px;
+    line-height:40px;
+}
+.succeed h3 img{
+    margin:-4px 8px;
+    width:20px;
+}
+.succeed b{
+    color:red;
+    margin:0px 5px;
+}
+.succeed p{
+    margin-left: 35px;
+}
