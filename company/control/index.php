@@ -17,8 +17,8 @@ class indexControl extends control{
         parent::__construct();
     }
     public function indexOp(){
-       echo 'this is company first pages';
-        Tpl::setDir("home");
+//       echo 'this is company first pages';
+        Tpl::setDir("home/model1");
         Tpl::setLayout("common_layout");
         Tpl::showpage("index");
     }

@@ -1135,9 +1135,6 @@ function C($key){
                 if (isset($key[2])){
                         return $GLOBALS['setting_config'][$key[0]][$key[1]][$key[2]];
                 }else{
-                    echo $key[0];
-                    echo '<hr>';
-                    echo $key[1];
 //                    p($GLOBALS['setting_config'][$key[0]][$key[1]]);
                         return $GLOBALS['setting_config'][$key[0]][$key[1]];
                 }
