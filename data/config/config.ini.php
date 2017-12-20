@@ -2,21 +2,22 @@
 
 
 $config = array();
-$config['base_site_url'] 		= 'http://framework.net';
-$config['shop_site_url'] 		= 'http://framework.net/shop';
-$config['cms_site_url'] 		= 'http://framework.net/cms';
-$config['microshop_site_url'] 	= 'http://framework.net/microshop';
-$config['circle_site_url'] 		= 'http://framework.net/circle';
-$config['agent_site_url']       = 'http://framework.net/agent';// A平台
-$config['admin_site_url'] 		= 'http://framework.net/admin';
-$config['mobile_site_url'] 		= 'http://framework.net/mobile';
-$config['wap_site_url'] 		= 'http://framework.net/wap';
-$config['chat_site_url'] 		= 'http://framework.net/chat';
+$config['base_site_url'] 		= 'http://www.cosmos.com';
+$config['shop_site_url'] 		= 'http://www.cosmos.com/shop';
+$config['cms_site_url'] 		= 'http://www.cosmos.com/cms';
+$config['microshop_site_url'] 	= 'http://www.cosmos.com/microshop';
+$config['circle_site_url'] 		= 'http://www.cosmos.com/circle';
+$config['agent_site_url']       = 'http://www.cosmos.com/agent';// A平台
+$config['admin_site_url'] 		= 'http://www.cosmos.com/admin';
+$config['mobile_site_url'] 		= 'http://www.cosmos.com/mobile';
+$config['wap_site_url'] 		= 'http://www.cosmos.com/wap';
+$config['chat_site_url'] 		= 'http://www.cosmos.com/chat';
 $config['node_site_url'] 		= 'http://192.168.1.220:3000';
-$config['delivery_site_url']    = 'http://framework.net/delivery';
-$config['upload_site_url']		= 'http://framework.net/data/upload';
-$config['resource_site_url']	= 'http://framework.net/data/resource';
-$config['indiana_site_url']	= 'http://framework.net/indiana';
+$config['delivery_site_url']    = 'http://www.cosmos.com/delivery';
+$config['upload_site_url']		= 'http://www.cosmos.com/data/upload';
+$config['resource_site_url']	= 'http://www.cosmos.com/data/resource';
+$config['indiana_site_url']	= 'http://www.cosmos.com/indiana';
+$config['company_site_url'] = "http://www.cosmos.com/company";
 
 $config['version'] 		= '201601130001';
 $config['setup_date'] 	= '2016-12-22 11:26:17';
@@ -67,5 +68,5 @@ $config['queue']['open'] = false;
 $config['queue']['host'] = '127.0.0.1';
 $config['queue']['port'] = 6379;
 $config['cache_open'] = false;
-$config['delivery_site_url']    = 'http://framework.net/delivery';
+$config['delivery_site_url']    = 'http://www.cosmos.com/delivery';
 return $config;

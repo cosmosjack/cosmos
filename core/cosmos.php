@@ -24,6 +24,7 @@ define('CIRCLE_SITE_URL', $config['circle_site_url']);
 define('AGENT_SITE_URL', $config['agent_site_url']);// A 平台
 define('VIDEO_SITE_URL', $config['video_site_url']);// 视频
 define('INDIANA_SITE_URL', $config['indiana_site_url']); // 夺宝
+define('COMPANY_SITE_URL',$config['company_site_url']);
 define('MICROSHOP_SITE_URL', $config['microshop_site_url']);
 define('ADMIN_SITE_URL', $config['admin_site_url']);
 define('MOBILE_SITE_URL', $config['mobile_site_url']);

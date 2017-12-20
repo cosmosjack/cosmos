@@ -29,6 +29,7 @@ define('DIR_API','api'); //定义接口文件名
 define('DIR_MOBILE','mobile');//定义手机端文件名
 define('DIR_WAP','wap');//定义wap版 文件名
 define('DIR_INDIANA','indiana');//定义夺宝 文件名
+defined("DIR_COMPANY",'company');//定义官网文件名
 
 define('DIR_RESOURCE','data/resource');  //定义公共资源
 define('DIR_UPLOAD','data/upload'); //定义上传路径
